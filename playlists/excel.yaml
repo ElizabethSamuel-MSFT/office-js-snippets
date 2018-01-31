@@ -27,6 +27,15 @@
   group: Basics
   api_set:
     Selection: 1.1
+- id: excel-basics-elizabeths-test
+  name: Elizabeth's test
+  fileName: elizabeths-test.yaml
+  description: Elizabeth's test's description
+  rawUrl: >-
+    https://raw.githubusercontent.com/<ACCOUNT>/<REPO>/<BRANCH>/samples/excel/01-basics/elizabeths-test.yaml
+  group: Basics
+  api_set:
+    ExcelApi: 1.7
 - id: excel-advanced-report-generation
   name: Report generation
   fileName: report-generation.yaml
